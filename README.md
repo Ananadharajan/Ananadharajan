@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 - Open-source contributions
 
 ## 📫 How to reach me
-- Email: ananadharajan@example.com
-- LinkedIn: [Ananadharajan](https://www.linkedin.com/in/ananadharajan/)
-- Twitter: [@ananadharajan](https://twitter.com/ananadharajan)
+- Email: rajananandh72138@gmail.com
+- LinkedIn: [Ananadharajan](https://www.linkedin.com/in/anandharajan13/)
+- Twitter: [@iamrajan0](https://x.com/iamrajan0)
 
 ## ⚡ Fun fact
 I love solving puzzles and playing chess in my free time!
