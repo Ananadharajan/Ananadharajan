@@ -1,4 +1,4 @@
-# Hi there, I'm Ananadharajan 👋
+# Hi there, I'm Anandharajan 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves coding, learning new technologies, and contributing to open-source projects. Here's a bit about me:
 
