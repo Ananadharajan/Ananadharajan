@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 I love solving puzzles and playing chess in my free time!
 
 ## 🛠️ My Tech Stack
-- **Languages**: JavaScript, TypeScript, Python, Java
-- **Frontend**: React, Angular, HTML5, CSS3, SASS
+- **Languages**: JavaScript, TypeScript, Java
+- **Frontend**: React, HTML5, CSS3
 - **Backend**: Node.js, Express, MongoDB, SQL
 - **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions
 - **Cloud**: AWS, Azure
